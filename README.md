@@ -1,5 +1,4 @@
-## Hi👋,I'm a programming student and passionate about blockchain web3 technology
-
+Hi👋,I'm a programming student and passionate about blockchain web3 technology
 <div align="center">
   <a href="https://github.com/igordone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
