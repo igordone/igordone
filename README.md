@@ -1,14 +1,10 @@
-<h2 align="center">Hi 👋, I'm Igor Done</h2> <p align="left"> <img align="right" src="https://komarev.com/ghpvc/?username=igordone&label=Profile%20views&color=0e75b6&style=flat" alt="igordone" /></p> 
-<h4 align="center">Programming student and passionate about blockchain web3 technology</h4>
-
-##
+## Hi 👋, I'm Igor Done Programming student and passionate about blockchain web3 technology
 
 <div align="center">
   <a href="https://github.com/igordone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -24,4 +20,5 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/igordone/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/igordone/"/></a>
   <a href="https://discord.gg/IG0R#2781" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="IG0R#2781"/></a>
   <a href="mailto:contato@igor.done15"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <img align="center" src="https://komarev.com/ghpvc/?username=igordone&label=Profile%20views&color=0e75b6&style=flat" alt="igordone"/>
 </div>
