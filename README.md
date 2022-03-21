@@ -1,4 +1,4 @@
-## Hi 👋, I'm Igor Done, a programming student and passionate about blockchain web3 technology
+## Hi👋,I'm Igor Done,a programming student and passionate about blockchain web3 technology
 
 <div align="center">
   <a href="https://github.com/igordone">
