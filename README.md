@@ -1,6 +1,5 @@
 <h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
 <br>
- ##
  
 <div>
   <a href="https://github.com/igordone">
