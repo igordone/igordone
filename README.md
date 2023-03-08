@@ -1,11 +1,20 @@
 <h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
- 
+<br>
  ##
  
-<div align="center">
+<div>
   <a href="https://github.com/igordone">
-  <img height="180em" width="340" src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&layout=compact&langs_count=7&theme=dracula"/>
+  <picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true" />
+</picture>
 </div>
   
 <div style="display: inline_block"><br>
