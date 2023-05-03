@@ -9,7 +9,7 @@
 </div>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>  
 
 <hr>
 
@@ -19,6 +19,8 @@
   <img align="center" alt="Igor-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Igor-Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img alt="git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="java script" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" width="180" height="150" alt="gif-coding" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611becd1329bdc88b5090cda6a3c7a48e203ae594e6&rid=giphy.gif&ct=g">
 </div>
 
