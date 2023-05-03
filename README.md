@@ -1,7 +1,7 @@
 <h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
 <br>
  
-<img src="https://img.shields.io/static/v1?label=Overview&message=Igor Done">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Igor Done&color=3178c6&style=for-the-badge&logo=GitHub">
 <br>
 <hr>
 
