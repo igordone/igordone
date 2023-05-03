@@ -8,7 +8,7 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=transparent_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>  
  
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=igordone_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 </div>
 
 <hr>
