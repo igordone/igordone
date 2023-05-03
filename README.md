@@ -1,7 +1,17 @@
 <h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
 <br>
  
-<div [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Willian Lopes&color=f8efd4&style=for-the-badge&logo=GitHub">
+<br>
+<hr>
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=transparent_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>  
+ 
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=igordone_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+</div>
+
+<hr>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
