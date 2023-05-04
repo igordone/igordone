@@ -1,15 +1,12 @@
-<h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
-<br>
- 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Igor Done&color=3178c6&style=for-the-badge&logo=GitHub">
 <br>
+<h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
+<br>
 <hr>
-
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&cache_seconds=2300&theme=transparent">
 </div>
-
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>  
+    <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>  
 
 <hr>
 
