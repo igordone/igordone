@@ -4,10 +4,8 @@
 <br>
 <hr>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&cache_seconds=2300&theme=transparent">
-</div>
-<div>
-    <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>  
-
+<img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>
+<div>  
 <hr>
 
 <div style="display: inline_block"><br>
