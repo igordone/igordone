@@ -21,7 +21,7 @@
   ##
 
 <div>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/igordone/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/igordone/"/></a>
+  <a href="https://www.linkedin.com/in/igordone/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/igordone/"/></a>
   <a href="https://discord.gg/IG0R#2781" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="IG0R#2781"/></a>
   <a href="mailto:contato@igor.done15"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <img align="center" src="https://komarev.com/ghpvc/?username=igordone&label=Profile%20views&color=0e75b6&style=flat" alt="igordone"/>
