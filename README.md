@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Igor Done&color=3178c6&style=for-the-badge&logo=GitHub">
 <br>
-<h4>Hi👋,I'm a programming student and passionate about blockchain web3 technology</h4>
+<h4>Hi👋,I'm the guy who studies systems analysis and development and draws some stuffs</h4>
 <br>
 <hr>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&cache_seconds=2300&theme=transparent">
