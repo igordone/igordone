@@ -2,8 +2,11 @@
 <br>
 
 <hr>
-  <img align='left' src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&cache_seconds=2300&theme=transparent">
+
+<div class="stats" style="display:flex;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&cache_seconds=2300&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>
+</div>
 
 <hr>
 
@@ -26,4 +29,8 @@
   <a href="https://discord.gg/IG0R#2781" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="IG0R#2781"/></a>
   <a href="mailto:contato@igor.done15"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <img align="center" src="https://komarev.com/ghpvc/?username=igordone&label=Profile%20views&color=0e75b6&style=flat" alt="igordone"/>
+</div>
+
+&nbsp;<div align="left">
+  [![Spotify](https://novatorem-lac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/igordone)
 </div>
