@@ -4,13 +4,10 @@
 <hr>
 
 <div class="stats" style="display:flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=igordone&show_icons=true&cache_seconds=2300&theme=transparent">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordone&theme=dark&text_color=3d7680&title_color=3178c6&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title"/>
-</div>
-
-<hr>
-
-<div style="display: inline_block"><br>
+  
+  <div style="display: inline_block"><br>
   <img alt="html" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="css" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -19,7 +16,6 @@
   <img alt="java script" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="java script" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Csharp" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="right" width="180" height="150" alt="gif-coding" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611becd1329bdc88b5090cda6a3c7a48e203ae594e6&rid=giphy.gif&ct=g">
 </div>
 
   ##
