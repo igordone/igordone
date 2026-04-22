@@ -93,32 +93,6 @@ LinkedIn:      linkedin.com/in/igordone
 
 ---
 
-## 🚀 About Me
-
-I'm a developer focused on **data and design**, blending analytical thinking with creative execution.  
-I enjoy building clean interfaces, solving problems, and creating engaging digital experiences.
-
----
-
-## 🛠️ Tech & Tools
-
-* JavaScript
-* React
-* SQL
-* Figma
-* Adobe Illustrator & Photoshop
-* Git & GitHub
-
----
-
-## 📈 Goals
-
-* Improve fullstack skills
-* Expand freelance work
-* Build impactful products
-
----
-
 <div align="center">
 
 ✨ Always building, always learning.
