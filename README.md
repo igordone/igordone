@@ -57,9 +57,9 @@ Location:      Brazil
 ----------------------------------------
 
 💻 Stack:
-- Development: HTML, CSS, JavaScript, React, Docker, Git, C# .NET, SQL ,Wordpress
+- Development: HTML, CSS, JavaScript, React, Docker, Git, C# .NET ,Wordpress
 - Design:      Figma, Illustrator, Photoshop, 
-- Data:        SQL
+- Data:        SQL/realationals
 
 🧠 Interests:
 - Creative Coding
