@@ -57,15 +57,14 @@ Location:      Brazil
 ----------------------------------------
 
 💻 Stack:
-- Frontend:    HTML, CSS, JavaScript
-- Design:      Figma, Illustrator, Photoshop
+- Development: HTML, CSS, JavaScript, React, Docker, Git, C# .NET, SQL ,Wordpress
+- Design:      Figma, Illustrator, Photoshop, 
 - Data:        SQL
 
 🧠 Interests:
-- UI/UX Design
-- Data Visualization
 - Creative Coding
-- Games & Fantasy Worlds
+- AI LLMs
+- UI/UX Design
 
 ⚙️ Currently:
 - Building web projects
